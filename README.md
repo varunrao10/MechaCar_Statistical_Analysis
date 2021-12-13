@@ -1,6 +1,8 @@
 # MechaCar_Statistical_Analysis
  R Code
 
+ **R File:** [Mecha Car Challenge](MechaCarChallenge.Rscript.R)
+
 ## Linear Regression to Predict MPG
 ![del1](screenshots/del1.PNG)
 
